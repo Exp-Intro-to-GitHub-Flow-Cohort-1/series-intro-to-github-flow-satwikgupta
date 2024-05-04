@@ -1,1 +1,1 @@
-This is my new file example.
+Welcome to my GitHub profile!
